@@ -7,7 +7,7 @@ import Toggle from './components/Toggle';
 import SortingVisualizer from "./components/SortingVisualizer";
 
 
-const API_BASE_URL = 'http://localhost:5000/api/contests';
+const API_BASE_URL = 'https://contest-tracker-qzab.onrender.com/api/contests';
 
 function App() {
   const [contests, setContests] = useState([]);
