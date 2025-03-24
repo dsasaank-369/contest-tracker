@@ -1,0 +1,66 @@
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.app-header {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app-header h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  gap: 20px;
+}
+
+.error-message {
+  background-color: #ffdddd;
+  color: #ff0000;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.loading {
+  text-align: center;
+  padding: 20px;
+  font-size: 18px;
+  color: #666;
+}
+
+.no-contests {
+  text-align: center;
+  padding: 20px;
+  font-size: 18px;
+  color: #666;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+main {
+  min-height: 60vh;
+}
+
+h2, h3 {
+  text-align: center;
+  color: #333;
+}
+
+footer {
+  margin-top: 40px;
+  text-align: center;
+  color: #666;
+  font-size: 14px;
+  padding: 10px;
+  border-top: 1px solid #eee;
+}
