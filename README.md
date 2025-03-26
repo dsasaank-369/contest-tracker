@@ -66,9 +66,3 @@ The application uses the following API endpoints:
 /api/contests/past: Fetch past contests
 /api/contests/filter: Filter contests by platform
 
-
-License
-Distributed under the MIT License. See LICENSE for more information.
-Contact
-Your Name - youremail@example.com
-Project Link: https://github.com/yourusername/contest-tracker
