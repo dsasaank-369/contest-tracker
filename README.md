@@ -1,3 +1,4 @@
+# Contest tracker with sorting visualizer
 Contest Tracker and Sorting Visualizer
 Project Overview
 This full-stack web application provides a comprehensive platform for tracking coding contests from multiple platforms (LeetCode, CodeChef, and CodeForces) along with an interactive sorting visualizer. The application offers the following key features:
