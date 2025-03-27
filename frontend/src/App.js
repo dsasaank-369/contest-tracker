@@ -95,7 +95,7 @@ function App() {
         )}
       </main>
 
-      // <SortingVisualizer />
+             {/* <SortingVisualizer /> */}
 
       
       <footer>
