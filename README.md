@@ -23,7 +23,7 @@ Git
 
 Installation Steps
 1. Clone the Repository
-bashCopygit clone https://github.com/yourusername/contest-tracker.git
+bashCopygit clone https://github.com/dsasaank-369/contest-tracker.git
 cd contest-tracker
 2. Set Up Backend
 Navigate to the backend directory and install dependencies:
